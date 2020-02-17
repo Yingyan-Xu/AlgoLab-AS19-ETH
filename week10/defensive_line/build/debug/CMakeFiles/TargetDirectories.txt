@@ -1,3 +1,0 @@
-/Users/apple/Desktop/algo lab/week10/defensive_line/build/debug/CMakeFiles/rebuild_cache.dir
-/Users/apple/Desktop/algo lab/week10/defensive_line/build/debug/CMakeFiles/edit_cache.dir
-/Users/apple/Desktop/algo lab/week10/defensive_line/build/debug/CMakeFiles/algo.dir
